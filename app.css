@@ -1,0 +1,29 @@
+.circle {
+  display: flex;
+  background-color: navy;
+  color: white;
+  border-radius: 100px;
+  height: 100px;
+  width: 100px;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.product-img {
+  object-fit: cover;
+}
+
+.sosyal {
+  display: inline-block;
+  background-color: #333;
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  border-radius: 50%;
+  line-height: 40px;
+}
+.contact {
+  background: url(../img/logo/map.jpeg);
+  background-size: cover;
+}
