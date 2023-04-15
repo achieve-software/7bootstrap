@@ -13,7 +13,7 @@ Bootstrap Web Page (folder)
 |----images
 ```
 ## Project-gif
-https://github.com/achieve-software/gif/blob/main/boot.gif
+https://raw.githubusercontent.com/achieve-software/gif/main/bs.gif
 ## Project-link
 https://playful-syrniki-8b0921.netlify.app/
 ### At the end of the project, following topics are to be covered;
